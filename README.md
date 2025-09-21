@@ -11,5 +11,6 @@ Features:
 - Automatic metadata filling
 
 - Drag and drop music files (drop it into a music file tab otherwise it wont work)
+https://github.com/user-attachments/assets/21d1dda8-864f-40c5-915e-f9838fb7a077
 
 - Run Tuneincrew in this program to compile
