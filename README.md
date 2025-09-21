@@ -11,6 +11,6 @@ Features:
 - Automatic metadata filling
 
 - Drag and drop music files (drop it into a music file tab otherwise it wont work)
-<video src="[images/video.mp4](https://github.com/user-attachments/assets/21d1dda8-864f-40c5-915e-f9838fb7a077)" width="320" height="240" controls></video>
+<video src="https://github.com/user-attachments/assets/21d1dda8-864f-40c5-915e-f9838fb7a077" width="320" height="240" controls></video>
 
 - Run Tuneincrew in this program to compile
