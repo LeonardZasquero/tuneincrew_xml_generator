@@ -2,6 +2,14 @@ an XML Generator GUI for Tuneincrew (https://github.com/Telonof/TuneinCrew) done
 
 Entirely done by Deepseek. may have issues but so far so smooth for me. I'm not a programmer at all so please understand that i won't be maintaining this at all and i won't fix the issues because i can't. meanwhile feel free to snatch the source whatever you like.
 
+Prerequisites:
+
+-Python 3.x
+
+-PyQt5
+
+-Mutagen (for audio metadata extraction)
+
 Features:
 
 - GUI (duh)
