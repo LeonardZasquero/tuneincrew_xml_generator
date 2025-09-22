@@ -4,11 +4,11 @@ Entirely done by Deepseek. may have issues but so far so smooth for me. I'm not 
 
 Prerequisites:
 
--Python 3.x
+- Python 3.x
 
--PyQt5
+- PyQt5
 
--Mutagen (for audio metadata extraction)
+- Mutagen (for audio metadata extraction)
 
 Features:
 
